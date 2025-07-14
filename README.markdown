@@ -1,6 +1,8 @@
 # Property Prices in Tunisia: Data Cleaning Project
 
 ![Banner](https://imgs.search.brave.com/tSH32mSSIZZUY7viu9lEhADoBG-a1Os-0fPc9rCIu7s/rs:fit:0:180:1:0/g:ce/aHR0cHM6Ly9jZG4u/Z2xvYmFscHJvcGVy/dHlndWlkZS5jb20v/YXNzZXRzL2ltZy9D/Ty1UTk8tSTAwLmpw/Zw)
+
+
 *Clean and prepare real estate data for analysis with a structured, reproducible pipeline.*
 
 ## 📋 Project Overview
@@ -32,39 +34,14 @@ To run the data cleaning pipeline, ensure you have the following:
   ```bash
   pip install pandas numpy seaborn
   ```
-- **Dataset**: The original dataset, `Property Prices in Tunisia.csv`, available in the project directory or from [source link, if applicable].
+- **Dataset**: The original dataset, `Property Prices in Tunisia.csv`, available in the project directory or from [[source link, if applicable](https://www.kaggle.com/datasets/ghassen1302/property-prices-in-tunisia/data)].
 - **Environment**: A Python environment (e.g., VS Code, Jupyter Notebook, or terminal).
 
 ## 🚀 Setup and Usage
 
-1. **Clone or Download the Project**:
-   - Place all Python scripts and the original dataset in a directory (e.g., `C:\Users\HP\Downloads\archive\`).
-   - Example directory structure:
-     ```
-     data_cleaning_project/
-     ├── Property Prices in Tunisia.csv
-     ├── missing_data_handling.py
-     ├── duplicate_records_handling.py
-     ├── outlier_detection.py
-     ├── formatting_inconsistencies.py
-     ├── column_renaming_standardization.py
-     ├── feature_engineering.py
-     ├── final_validation_export.py
-     ├── README.md
-     ```
-
-2. **Run the Scripts Sequentially**:
-   - Each script loads the output from the previous step (e.g., `cleaned_property_prices_step1.csv` for step 2).
+ **Run the Scripts Sequentially**:
+   - Each script loads the output from the previous step
    - In VS Code or a terminal, run each script in order:
-     ```bash
-     python missing_data_handling.py
-     python duplicate_records_handling.py
-     python outlier_detection.py
-     python formatting_inconsistencies.py
-     python column_renaming_standardization.py
-     python feature_engineering.py
-     python final_validation_export.py
-     ```
    - Alternatively, use a Jupyter notebook to combine all steps (see `data_cleaning.ipynb` if provided).
 
 3. **Verify Outputs**:
@@ -112,9 +89,9 @@ To view this README and code with a professional style in VS Code:
 
 ## 🙌 Acknowledgments
 
-- **Dataset**: Sourced from [source link, if applicable, or "Property Prices in Tunisia dataset"].
+- **Dataset**: Sourced from [here, "https://www.kaggle.com/datasets/ghassen1302/property-prices-in-tunisia/data"].
 - **Tools**: Built with pandas, numpy, and seaborn for robust data processing.
-- **Contributors**: [Your name, if desired] for implementing the pipeline.
+- **Contributors**: [Iyed Omri] , [Anis marrouchi] .
 
 ---
 
