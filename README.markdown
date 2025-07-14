@@ -1,6 +1,6 @@
 # Property Prices in Tunisia: Data Cleaning Project
 
-![Banner](https://via.placeholder.com/800x200.png?text=Property+Prices+in+Tunisia)  
+![Banner]([https://via.placeholder.com/800x200.png?text=Property+Prices+in+Tunisia](https://imgs.search.brave.com/tSH32mSSIZZUY7viu9lEhADoBG-a1Os-0fPc9rCIu7s/rs:fit:0:180:1:0/g:ce/aHR0cHM6Ly9jZG4u/Z2xvYmFscHJvcGVy/dHlndWlkZS5jb20v/YXNzZXRzL2ltZy9D/Ty1UTk8tSTAwLmpw/Zw))  
 *Clean and prepare real estate data for analysis with a structured, reproducible pipeline.*
 
 ## 📋 Project Overview
